@@ -1,4 +1,4 @@
-# Django práctica 3
+# Backend Django
 
 ## Paquetes
 
